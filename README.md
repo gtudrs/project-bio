@@ -134,14 +134,7 @@ Pe urmă se imobilizează osul. Obs: membrul superior se imobilizează întotdea
     <p>
 În caz de intoxicații este important de știut ce substanță toxică a fost consumată, antidotul pentru fiecare fiind diferit, dar primul ajutor, în linii mari, este același. 
 Întreruperea imediată a pătrunderii toxicului în organism 
-Ingerarea de apă și provocarea de vărsături (ing
-
-
-
-
-
-ChatGPT a dit :
-erearea a 2-3 pahare de apă, urmată de iritarea bazei limbii cu un apăsător de limbă: linuriță)
+Ingerarea de apă și provocarea de vărsături (ingerearea a 2-3 pahare de apă, urmată de iritarea bazei limbii cu un apăsător de limbă: linuriță)
 Administrarea de antidoturi
 Supravegherea respirației și a circulației (trebuie menținute căile respiratorii libere de secreții)
 </p>
